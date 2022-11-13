@@ -118,7 +118,6 @@ h1 {
 }
 
 .hero__btn {
-	position: relative;
 	margin-top: 1rem;
 	color: var(--primary-violet);
 }
