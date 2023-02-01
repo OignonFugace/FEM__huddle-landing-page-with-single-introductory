@@ -43,4 +43,4 @@ This is a solution to the Huddle Landing Page With Single Introductory challenge
 
 
 ## Acknowledgments
-- Since a couple of days I have been following the foundation curriculum at [The Odin Project](https://www.theodinproject.com/). One particular exercice on flexbox helped me find a convenient and suitable way of centering the social media icons in their circles for this Frontend Mentor challenge. I strongly encourage every aspiring web developer like me to go and check what [The Odin Project](https://www.theodinproject.com/) has to offer. This is of great value !
+- Since a couple of days I have been following the foundation curriculum at [The Odin Project](https://www.theodinproject.com/). One particular exercice on flexbox helped me find a convenient and suitable way of centering the social media icons in their circles for this Frontend Mentor challenge. I strongly encourage every aspiring web developer like me to go and check what [The Odin Project](https://www.theodinproject.com/) has to offer. This is of great value!
